@@ -1,0 +1,13 @@
+.mainMenu{
+    width: auto;
+    height: 100px;
+}
+
+.titlebold{
+    display: inline-block;
+    margin-right: -5px;
+}
+.titlenorm{
+    display: inline-block;
+    font-weight: 200;
+}
